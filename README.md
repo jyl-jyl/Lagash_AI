@@ -1,2 +1,2 @@
 # Lagash_AI
-Developing AI methodology for processing magnetometry data in archeaology
+Developing AI methods for processing magnetometry data in archeaology
